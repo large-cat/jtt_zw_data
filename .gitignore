@@ -1,0 +1,6 @@
+*.sql
+*.sqlite
+venv
+data
+*.db
+__pycache__

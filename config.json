@@ -1,0 +1,5 @@
+{
+  "result_worker": {
+    "result_cls": "jtt_result_worker.JTTResultWorker"
+  }
+}
